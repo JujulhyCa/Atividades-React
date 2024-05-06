@@ -1,7 +1,7 @@
-import Relogio from './components/Relogio';
+import Relogio from './componentes/relogio';
 import { Link } from "react-router-dom";
 
-export default function Atv01(){
+export default function Ativ01(){
     return (
         
         <div>

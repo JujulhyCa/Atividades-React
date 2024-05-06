@@ -1,7 +1,7 @@
-import Botao from './components/Letreiro';
+import Botao from './componentes/botao';
 import { Link } from "react-router-dom";
 
-export default function Atv03(){
+export default function Ativ03(){
     return (
         
         <div>

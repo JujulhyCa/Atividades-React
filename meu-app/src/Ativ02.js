@@ -1,7 +1,7 @@
-import Letreiro from './components/Letreiro';
+import Letreiro from './componentes/letreiro';
 import { Link } from "react-router-dom";
 
-export default function Atv02(){
+export default function Ativ02(){
     return (
         
         <div>
